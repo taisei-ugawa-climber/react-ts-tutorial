@@ -10,7 +10,8 @@
 
 ## Modules
 
-* [Chakra UI](https://chakra-ui.com/)
+* [@chakra-ui/react](https://chakra-ui.com/)
+* [@chakra-ui/icon](https://chakra-ui.com/docs/components/icon/usage)
 
 ## Architecture
 
