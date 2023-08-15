@@ -17,8 +17,8 @@ function Sidebar() {
                         <InfoOutlineIcon marginRight={2} />Home
                     </Link>
                     {/* TODOリストページ */}
-                    <Link href="/todos">
-                        <EditIcon marginRight={2} />Todos
+                    <Link href="/todo">
+                        <EditIcon marginRight={2} />Todo
                     </Link>
                     {/* ユーザー情報ページ */}
                     <Link href="/account">

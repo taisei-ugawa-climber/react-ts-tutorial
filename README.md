@@ -10,6 +10,7 @@
 
 ## Modules
 
+* [react-router-dom](https://reactrouter.com/en/main)
 * [@chakra-ui/react](https://chakra-ui.com/)
 * [@chakra-ui/icon](https://chakra-ui.com/docs/components/icon/usage)
 
@@ -22,8 +23,14 @@ src/
 |   |-- Button/
 |   |   |-- index.tsx
 |   |   |-- Button.module.css (or Button.styles.ts)
+|   |   |-- Button.test.tsx
 |   |-- Header/
 |-- containers/        # Components with business logic or specific to certain pages
+|   |-- Home/
+|   |   |-- index.tsx
+|   |   |-- Home.module.css (or Home.styles.ts)
+|   |   |-- Home.test.tsx
+|   |-- Contact/
 |-- hooks/             # Custom hooks
 |-- utils/             # Helper functions and utilities
 |-- types/             # TypeScript type definitions
