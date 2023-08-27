@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="110" height="110" src="https://img.icons8.com/office/128/react.png" alt="react"/>
+  <img width="110" height="110" src="https://img.icons8.com/color/128/typescript.png" alt="typescript"/>
+</p>
+
 # React Tutorial App with TypeScript
 
 * [React Document](https://react.dev/)
@@ -18,7 +23,7 @@
 
 ```
 src/
-|-- assets/             # Static files (images, fonts, etc.)
+|-- assets/            # Static files (images, fonts, etc.)
 |-- components/        # Reusable UI components
 |   |-- Button/
 |   |   |-- index.tsx
